@@ -1,6 +1,6 @@
 # Crash Bandicoot 2 - Cortex Strikes Back for Android (psxrecomp)
 
-Private. This repository holds only what makes **Crash Bandicoot 2 - Cortex Strikes Back** run as a native Android app: its
+This repository holds only what makes **Crash Bandicoot 2 - Cortex Strikes Back** run as a native Android app: its
 configuration, code entry points (seeds), helper tools and play captures. **It contains no game
 code or data.** You build the app on your own PC from **your own disc**; nothing from the disc is
 ever uploaded.
